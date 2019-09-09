@@ -7,17 +7,17 @@ Simple vanilla js starting point
 1. Install dependencies
 
 ```sh
-npm install
+yarn
 ```
 
-2. Running in development mode:
+2. Run in development mode:
 
 ```sh
-npm start
+yarn start
 ```
 
 3. Build
 
 ```sh
-npm run build-prod
+yarn build-prod
 ```
