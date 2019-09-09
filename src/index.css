@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
+
+:root {
+  --color-bg: #ffb997;
+  --color-txt: #2d1103;
+  --font-family: 'Work Sans', sans-serif;
+  --fs-sm: 0.8rem;
+  --fs-md: 1rem;
+  --font-size: 3rem;
+}
+
+body {
+  font-family: var(--font-family);
+  color: var(--color-txt);
+  background-color: var(--color-bg);
+  font-size: var(--font-size);
+  display: flex;
+  justify-content: center;
+}
