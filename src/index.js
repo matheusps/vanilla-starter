@@ -1,7 +1,7 @@
 import './preflight.css'
 import './index.css'
 
-const pageTitle = () => {
+function pageTitle () {
   const introText = 'Welcome to vanilla starter 👻'
   return `<h1>${introText}</h1>`
 }
